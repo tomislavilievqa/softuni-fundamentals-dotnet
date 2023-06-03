@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1. Company Roster", "1. Company Roster\1. Company Roster.csproj", "{65F6934B-64AB-4DCA-A99F-E2B08C894941}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coaster.Tests", "Coaster.Tests\Coaster.Tests.csproj", "{80CA8A8D-57A2-4E2C-8971-91A4EDA6D344}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65F6934B-64AB-4DCA-A99F-E2B08C894941}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65F6934B-64AB-4DCA-A99F-E2B08C894941}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65F6934B-64AB-4DCA-A99F-E2B08C894941}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65F6934B-64AB-4DCA-A99F-E2B08C894941}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80CA8A8D-57A2-4E2C-8971-91A4EDA6D344}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80CA8A8D-57A2-4E2C-8971-91A4EDA6D344}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80CA8A8D-57A2-4E2C-8971-91A4EDA6D344}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80CA8A8D-57A2-4E2C-8971-91A4EDA6D344}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E29E528-1326-4BFB-9061-12CD5A5E8A0C}
+	EndGlobalSection
+EndGlobal
