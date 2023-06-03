@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1. Rhombus Drawer", "1. Rhombus of Stars\1. Rhombus Drawer.csproj", "{B7CE5EAB-A893-4950-B40D-92B927174FEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Point in Rectangle", "2. Point in Rectangle\2. Point in Rectangle.csproj", "{20B44656-F64B-4626-A743-B1B429E6F970}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7CE5EAB-A893-4950-B40D-92B927174FEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7CE5EAB-A893-4950-B40D-92B927174FEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7CE5EAB-A893-4950-B40D-92B927174FEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7CE5EAB-A893-4950-B40D-92B927174FEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20B44656-F64B-4626-A743-B1B429E6F970}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20B44656-F64B-4626-A743-B1B429E6F970}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20B44656-F64B-4626-A743-B1B429E6F970}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20B44656-F64B-4626-A743-B1B429E6F970}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A29C9EC-1015-4FCC-8BB2-AA1C6B181CF9}
+	EndGlobalSection
+EndGlobal
